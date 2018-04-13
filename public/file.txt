@@ -1,0 +1,15 @@
+Array
+(
+    [file] => Illuminate\Http\UploadedFile Object
+        (
+            [test:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 
+            [originalName:Symfony\Component\HttpFoundation\File\UploadedFile:private] => media-share-0-02-04-7e19b5790a090b5ec97e7440a297f25044671251793cbe746e0a8a685269a2b9-01a280a5-3670-4d8d-8d6b-14684d1a4ad4.jpg
+            [mimeType:Symfony\Component\HttpFoundation\File\UploadedFile:private] => image/jpeg
+            [size:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 79436
+            [error:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 0
+            [hashName:protected] => 
+            [pathName:SplFileInfo:private] => D:\OSPanel\userdata\temp\php4A82.tmp
+            [fileName:SplFileInfo:private] => php4A82.tmp
+        )
+
+)
